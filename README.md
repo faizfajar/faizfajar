@@ -1,18 +1,18 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizfajar&show_icons=true&theme=dracula" alt="rifqicode Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizfajar&show_icons=true&theme=dracula" alt="faizfajar Github Stats">
 </div>
 <br>
 
 <div align="center">
-  <h2> Muhammad Rifqi Imam Saputra </h2>
+  <h2> Muhammad Faiz Fajar Aprianda </h2>
 </div>
 <br>
 
 <h2> 👨‍💻 Main Languages and Tools </h2>
  
-[![LARAVEL](https://img.shields.io/badge/-SYMFONY-black?style=flat&logo=symfony&link=https://github.com/faizfajar)](https://github.com/faizfajar) 
+[![LARAVEL](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel&link=https://github.com/faizfajar)](https://github.com/faizfajar) 
 [![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&link=https://github.com/faizfajar)](https://github.com/faizfajar) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/faizfajar)](https://github.com/faizfajar) 
 
