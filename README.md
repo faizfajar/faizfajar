@@ -17,8 +17,6 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/faizfajar)](https://github.com/faizfajar) 
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/faizfajar)](https://github.com/faizfajar)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&link=https://github.com/faizfajar)](https://github.com/faizfajar)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/faizfajar)](https://github.com/faizfajar)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/faizfajar)](https://github.com/faizfajar) 
 [![CSS5](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/faizfajar)](https://github.com/faizfajar) 
