@@ -32,7 +32,8 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/faizfajar)](https://github.com/faizfajar) 
 
 
-[![faizfajar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faizfajar)](https://github.com/faizfajar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizfajar&layout=compact)](https://github.com/faizfajar/github-readme-stats)
+
 
 
 
