@@ -32,8 +32,6 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/faizfajar)](https://github.com/faizfajar) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizfajar&layout=compact)](https://github.com/faizfajar/github-readme-stats)
-
 
 
 
