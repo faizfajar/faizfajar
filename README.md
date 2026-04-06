@@ -43,8 +43,8 @@ Backend developer based in Indonesia, passionate about building clean, efficient
 
 ## 📬 Let's connect
 
-[![Email](https://img.shields.io/badge/Email-your@email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:faizfajar.work@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-faizfajar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizfajarr)
+[![Email](https://img.shields.io/badge/Email-faizfajar.work@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:faizfajar.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-faizfajarr-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizfajarr)
 
 ---
 
